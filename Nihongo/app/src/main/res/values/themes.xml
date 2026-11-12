@@ -1,0 +1,8 @@
+<resources>
+    <!-- Base Splash/Launch window theme matching Official Mist Gray (#D6D0C4) -->
+    <style name="Theme.Nihongo" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">#D6D0C4</item>
+        <item name="android:statusBarColor">#D6D0C4</item>
+        <item name="android:navigationBarColor">#E4DFD5</item>
+    </style>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nihongo</string>
+    <string name="app_tagline_en">Learn Japanese. Step by Step.</string>
+    <string name="app_tagline_bn">ধাপে ধাপে জাপানি ভাষা শিখুন।</string>
+</resources>

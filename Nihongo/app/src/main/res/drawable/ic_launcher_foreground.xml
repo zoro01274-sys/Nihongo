@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Phoenix Flower Red (#C9432D) rising sun seal -->
+    <path
+        android:fillColor="#C9432D"
+        android:pathData="M54,32m-14,0a14,14 0,1 1,28 0a14,14 0,1 1,-28 0" />
+    <!-- Mist Gray (#D6D0C4) open book / stationery waves below -->
+    <path
+        android:fillColor="#D6D0C4"
+        android:pathData="M30,54 C38,54 46,57 54,63 C62,57 70,54 78,54 L78,72 C70,72 62,75 54,81 C46,75 38,72 30,72 Z" />
+    <!-- Ancient Wood Brown (#4B4038) center spine detail -->
+    <path
+        android:fillColor="#4B4038"
+        android:pathData="M52.5,61h3v19h-3z" />
+</vector>

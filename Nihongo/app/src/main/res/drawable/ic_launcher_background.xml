@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Official Ink Green (#335749) background -->
+    <path
+        android:fillColor="#335749"
+        android:pathData="M0,0h108v108h-108z" />
+    <!-- Subtle Mist Gray botanical border ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#D6D0C4"
+        android:strokeAlpha="0.25"
+        android:strokeWidth="1.5"
+        android:pathData="M54,54m-38,0a38,38 0,1 1,76 0a38,38 0,1 1,-76 0" />
+</vector>
